@@ -68,12 +68,14 @@ TwinStickShooter/Saved/*
 # Compiled source files for the engine to use
 TwinStickShooter/Intermediate/*
 TwinStickShooter/Plugins/*/Intermediate/*
+WorkshopOneShrine/Intermediate/*
+WorkshopOneShrine/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
 
 # Different log files
-.log
+*.log
 
 # StarterContent
 TwinStickShooter/Content/StarterContent/*
