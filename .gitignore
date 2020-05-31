@@ -71,6 +71,9 @@ TwinStickShooter/Plugins/*/Intermediate/*
 WorkshopOneShrine/Intermediate/*
 WorkshopOneShrine/Plugins/*/Intermediate/*
 
+#Ignore saved files
+WorkshopOneShrine/Saved/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
 
